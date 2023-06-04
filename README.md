@@ -5,9 +5,8 @@ At Ampera, I'm in the area of ​​autonomous navigation, where I apply my know
 
 I am a scientific initiation fellow at LINSE - Circuit and Signal Processing Laboratory, where i study Machine Learning theory and its applications.
 
-I am a member of the PAM (Advanced Mathematics Program) at UFSC, which guarantees me a solid foundation in mathematics to apply in my projects.
+And i am a member of the PAM (Advanced Mathematics Program) at UFSC, which guarantees me a solid foundation in mathematics to apply in my projects.
 
-I am passionate about technology and I am always looking to update myself in relation to trends and innovations. I believe that a domain of software and hardware can guarantee unique and revolutionary solutions to problems in general. I seek to enrich my curriculum and become widely qualified in this area.
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Robson-RSilva&show_icons=true&hide_border=true&title_color=777777&icon_color=777777&text_color=d0d0d0&hide_title=true&rank_icon=github&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
