@@ -1,5 +1,5 @@
 
-Hello, my name is Robson Ricardo da Silva, I graduated as an Electronics Technician from the IFSC, and I'm studying Electronics Engineering at UFSC. I am currently part of Ampera Racing, a competition team that designs and builds electric and autonomous cars for FSAE Brasil, which has provided me with unique experiences in terms of teamwork and solving complex problems.
+Hello, my name is Robson Ricardo da Silva, I graduated as an Electronic Technician from the IFSC, and I'm studying Electronics Engineering at UFSC. I am currently part of Ampera Racing, a competition team that designs and builds electric and autonomous cars for FSAE Brasil, which has provided me with unique experiences in terms of teamwork and solving complex problems.
 
 At Ampera, I'm in the area of ​​autonomous navigation, where I apply my knowledge in software, firmware and hardware to develop innovative solutions in an ever-evolving market. My goal is to contribute to the development of technologies that favor automation in an ethical and sustainable way.
 
