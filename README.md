@@ -3,7 +3,7 @@ Hello, my name is Robson Ricardo da Silva, I graduated as an Electronic Technici
 
 At Ampera, I'm in the area of ​​autonomous navigation, where I apply my knowledge in software, firmware and hardware to develop innovative solutions in an ever-evolving market. My goal is to contribute to the development of technologies that favor automation in an ethical and sustainable way.
 
-I am a scientific initiation fellow at LINSE - Circuit and Signal Processing Laboratory, where i study Machine Learning theory and its applications.
+I am a undergraduate researcher at LINSE - Circuit and Signal Processing Laboratory, where i study Machine Learning theory and its applications.
 
 And i am a member of the PAM (Advanced Mathematics Program) at UFSC, which guarantees me a solid foundation in mathematics to apply in my projects.
 
